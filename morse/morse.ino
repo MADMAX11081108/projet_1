@@ -245,7 +245,7 @@ delay(1000);
 }
 else {
   Serial.println("");
-  Serial.println("A symbool was not recognised");
+  Serial.println("The last caracter was not recognised");
   Serial.println("");
 }
 if(lettre[i]=="."){
